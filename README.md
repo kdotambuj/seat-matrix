@@ -1,3 +1,17 @@
+
+# Seat Matrix
+Welcome to the Seat Matrix project! This repository demonstrates the functionality of seat booking algorithms used in train and airplane ticket booking systems. The goal is to provide a comprehensive overview of how seats are allocated, managed, and booked in a dynamic environment.
+
+# Features
+- Seat Booking Visualization
+- Dynamic Seat allocation
+- Total amount UI
+
+# Technologies Used
+- HTML,CSS,Javascript
+- React
+- Tailwind
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
